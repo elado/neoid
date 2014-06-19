@@ -1,3 +1,5 @@
+# New home for Neoid! [https://github.com/neoid-gem/neoid](https://github.com/neoid-gem/neoid)
+
 # Neoid
 
 [![Build Status](https://secure.travis-ci.org/elado/neoid.png)](http://travis-ci.org/elado/neoid)
